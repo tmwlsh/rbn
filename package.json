@@ -1,0 +1,22 @@
+{
+  "name": "rossall-business-network",
+  "version": "1.0.0",
+  "private": true,
+  "description": "rossall-business-network",
+  "author": "Tom Walsh",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.32.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
